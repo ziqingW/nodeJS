@@ -1,2 +1,2 @@
-# nodeJS
-exercise for DC nodejs
+# NodeJS exercises
+Exercises for Node.js from DigitalCrafts class
